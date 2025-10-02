@@ -1,6 +1,9 @@
 # Student-Information-Management-System
 A structured programming (C) project from "CSE 1112: Structured Programming Language" laboratory.
 
+# How to run 
+`gcc main.c -o your_output_name`
+
 # Project Demo
 *Screenshots from **.exe** file*
 <table>
